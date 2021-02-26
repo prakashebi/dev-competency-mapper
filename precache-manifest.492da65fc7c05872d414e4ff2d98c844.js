@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75a841fa9066ff6c20d7117c2a661d45",
+    "revision": "6bf1beeb9475d6ef5514f1fb1926c7a4",
     "url": "/dev-competency-mapper/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dev-competency-mapper/static/css/2.2556c1d5.chunk.css"
   },
   {
-    "revision": "5d1dc8a8f086eb89eea9",
+    "revision": "a1784b5420e34600a575",
     "url": "/dev-competency-mapper/static/css/main.5eff98c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dev-competency-mapper/static/js/2.51b1709b.chunk.js"
   },
   {
-    "revision": "5d1dc8a8f086eb89eea9",
-    "url": "/dev-competency-mapper/static/js/main.4437cbb9.chunk.js"
+    "revision": "a1784b5420e34600a575",
+    "url": "/dev-competency-mapper/static/js/main.c74ba944.chunk.js"
   },
   {
     "revision": "6637875d2855b9cafbf2",
